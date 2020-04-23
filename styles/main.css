@@ -1,0 +1,71 @@
+table
+{
+
+
+width:829.9px;
+border:1px solid black;
+ 
+ 
+
+}
+
+p{
+    color:yellow;
+    font-family: 'Kenia', cursive;
+    font-size: 30px;
+    position: relative;
+}
+
+#borderimg1 {
+  
+    border-image: url(border.png) 50 round;
+  }
+
+  #profile-pic{ 
+       
+    border-radius: 8px;
+    position: absolute;
+    top: 70px;
+    left:870px;
+    border:5px solid #999;
+
+  }
+  .example1
+      {
+        font-family: 'Audiowide', cursive;
+      }
+
+      body{
+        background-color: grey;
+      }
+
+      .trclass1{
+          height:90px;
+      }
+      .tdstyle1{
+        width: 121px;
+         height: 90px;
+      }
+
+    .tdstyle2{
+        width: 698.9px;
+         height: 90px;
+    }
+    
+    #division1{
+        color: black;
+        font-family: 'Kenia', cursive;
+        font-size:20px;
+        padding-bottom:20px;
+    }
+
+    #bottompage{
+
+      position:absolute;
+      bottom:20px;
+      margin-bottom:px;
+
+    }
+    #boxmodelimg{
+      margin:25px;
+    }
