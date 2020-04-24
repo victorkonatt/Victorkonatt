@@ -10,7 +10,7 @@ border:1px solid black;
 }
 
 p{
-    color:yellow;
+    color:#F5FFFA;
     font-family: 'Kenia', cursive;
     font-size: 30px;
     position: relative;
@@ -25,8 +25,8 @@ p{
        
     border-radius: 8px;
     position: absolute;
-    top: 70px;
-    left:870px;
+    bottom: -180px;
+    right:400px;
     border:5px solid #999;
 
   }
@@ -37,6 +37,13 @@ p{
 
       body{
         background-color: grey;
+        background:grey;
+        width: 50%;
+        padding: 40px;
+        margin: 50px auto;
+        font-family: calibri;
+        border-radius: 10px;
+  
       }
 
       .trclass1{
@@ -61,11 +68,11 @@ p{
 
     #bottompage{
 
-      position:absolute;
-      bottom:20px;
-      margin-bottom:px;
-
+      
+     
     }
     #boxmodelimg{
       margin:25px;
     }
+    
+  
