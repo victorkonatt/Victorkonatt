@@ -9,7 +9,7 @@ border:1px solid black;
 
 }
 
-p{
+.introduction{
     color:#F5FFFA;
     font-family: 'Kenia', cursive;
     font-size: 30px;
@@ -74,5 +74,10 @@ p{
     #boxmodelimg{
       margin:25px;
     }
+    .center123{
+      text-align:center;
+      width:400;
+  
+      }
     
   
